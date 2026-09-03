@@ -91,9 +91,6 @@ AgentFlow supports zero-dependency local inferencing via **Ollama** (Llama 3, Mi
 
 ## 📸 Screenshots
 
-<!-- TODO: Add project-specific information here -->
-> 💡 *To display production screenshots, capture your local Studio workspace and add them to `docs/assets/`.*
-
 ### 🌐 Visual Workflow Studio
 ```text
 +-----------------------------------------------------------------------------------+
@@ -114,17 +111,15 @@ AgentFlow supports zero-dependency local inferencing via **Ollama** (Llama 3, Mi
 
 | Workflow Studio | History & Timeline Replay |
 |:---:|:---:|
-| ![Studio Canvas](./docs/assets/screenshot-studio.png)<br><sub>*Visual node canvas with active telemetry edges*</sub><br><!-- TODO: Add project-specific information here --> | ![History Replay](./docs/assets/screenshot-history.png)<br><sub>*Frame-by-frame timeline scrubber and run inspection*</sub><br><!-- TODO: Add project-specific information here --> |
+| ![Studio Canvas](./docs/assets/screenshot-studio.png)<br><sub>*Visual node canvas with active telemetry edges*</sub> | ![History Replay](./docs/assets/screenshot-history.png)<br><sub>*Frame-by-frame timeline scrubber and run inspection*</sub> |
 
 | Settings & Model Providers | Authentication & Tenant Security |
 |:---:|:---:|
-| ![Settings](./docs/assets/screenshot-settings.png)<br><sub>*Ollama local model selector and Gemini API toggle*</sub><br><!-- TODO: Add project-specific information here --> | ![Auth Screen](./docs/assets/screenshot-auth.png)<br><sub>*Google & GitHub OAuth with Supabase RLS isolation*</sub><br><!-- TODO: Add project-specific information here --> |
+| ![Settings](./docs/assets/screenshot-settings.png)<br><sub>*Ollama local model selector and Gemini API toggle*</sub> | ![Auth Screen](./docs/assets/screenshot-auth.png)<br><sub>*Google & GitHub OAuth with Supabase RLS isolation*</sub> |
 
 ---
 
 ## 🎥 Demo
-
-<!-- TODO: Add project-specific information here -->
 
 [![AgentFlow Visual Walkthrough](./docs/assets/demo-thumbnail.png)](https://github.com/Void8478/AgentFlow)
 
